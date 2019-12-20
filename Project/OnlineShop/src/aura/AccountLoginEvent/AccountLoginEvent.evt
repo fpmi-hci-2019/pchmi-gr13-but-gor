@@ -1,0 +1,6 @@
+<!--
+ - Created by user on 13-Sep-19.
+ -->
+
+<aura:event type="APPLICATION" description="AccountLoginEvent">
+</aura:event>
